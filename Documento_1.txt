@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Cambio de facu
-=======
 rompiendo todo
->>>>>>> 02bbe970c1a9ba100247dabd7618cc460ec1642a
